@@ -1,5 +1,5 @@
 # test_rebase
 # b1
 # b2
-# br_b1
 
+# rb_b2
